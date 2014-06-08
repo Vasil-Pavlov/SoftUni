@@ -1,0 +1,3 @@
+First navigate to the bin folder of the java project with the cd command.
+Then compile the java file with javac SumTwoNumbers.Java.
+Run the program java SumOfTwoNumber.
